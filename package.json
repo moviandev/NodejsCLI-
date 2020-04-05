@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moviandev/NodejsCLI-.git"
+    "url": "git+https://github.com/moviandev/cryptoCurrencyNodeJsCLI.git"
   },
   "keywords": [
     "CLI",
@@ -23,9 +23,9 @@
   "author": "Matheus Viana",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/moviandev/NodejsCLI-/issues"
+    "url": "https://github.com/moviandev/cryptoCurrencyNodeJsCLI/issues"
   },
-  "homepage": "https://github.com/moviandev/NodejsCLI-#readme",
+  "homepage": "https://github.com/moviandev/cryptoCurrencyNodeJsCLI#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "colors": "^1.4.0",
