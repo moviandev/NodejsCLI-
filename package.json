@@ -26,5 +26,11 @@
     "url": "https://github.com/moviandev/NodejsCLI-/issues"
   },
   "homepage": "https://github.com/moviandev/NodejsCLI-#readme",
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colors": "^1.4.0",
+    "commander": "^5.0.0",
+    "configstore": "^5.0.1",
+    "inquirer": "^7.1.0"
+  }
 }
