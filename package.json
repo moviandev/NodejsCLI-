@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "this is a nodejs cli to show the criptcurrency at the time in your terminal",
   "main": "index.js",
+  "bin": "./bin/crcur.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/moviandev/NodejsCLI-/issues"
   },
-  "homepage": "https://github.com/moviandev/NodejsCLI-#readme"
+  "homepage": "https://github.com/moviandev/NodejsCLI-#readme",
+  "dependencies": {}
 }
