@@ -52,7 +52,7 @@ To filter by crypto coin and currency you can run:
 
 To get more help you can run `$ cryptoCurrency help`
 
-To get more help about the commands you can as them like this: `$ cryptoCurrency [command] || [command] help`
+To get more help about the commands you can ask them like this: `$ cryptoCurrency [command] || [command] help`
 
 ## Contact Info
 
