@@ -43,6 +43,9 @@ At first you'll get the result in Brazilian currency to change it you can run th
 `$ cryptoCurrency check price --cur=USD`
 
 To filter by crypto coin you can run:
+`$ cryptoCurrency check price --coin=BTC`
+
+To filter by crypto coin and currency you can run:
 `$ cryptoCurrency check price --coin=BTC --cur=USD`
 
 ## Help
