@@ -1,5 +1,5 @@
 {
-  "name": "coindex",
+  "name": "cryptoCurrency",
   "version": "1.0.0",
   "description": "this is a nodejs cli to show the criptcurrency at the time in your terminal",
   "main": "index.js",
