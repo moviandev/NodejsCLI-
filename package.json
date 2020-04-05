@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "this is a nodejs cli to show the criptcurrency at the time in your terminal",
   "main": "index.js",
-  "bin": "./bin/crcur.js",
+  "bin": "./bin/cryptoCurrency.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
