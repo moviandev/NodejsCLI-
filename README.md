@@ -4,7 +4,7 @@ Project to display in your Terminal crypto currency of the day and the rank of i
 
 ## Installing
 
-To install this app is necessary to have [Node](https://nodejs.org/en/) and NPM installed.
+To install this app is necessary to have [Node](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/get-npm) installed.
 
 Installing the application:
 `$ npm i`
