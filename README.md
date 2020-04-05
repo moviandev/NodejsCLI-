@@ -9,7 +9,7 @@ To install this app is necessary to have Node and NPM installed.
 Installing the application:
 `$ npm i`
 
-After running `$ npm install` run `$ npm link`.
+After running `$ npm install` run `$ npm link` or `$ sudo npm link`.
 
 ## Running
 
